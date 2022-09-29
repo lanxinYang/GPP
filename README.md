@@ -1,1 +1,1 @@
-# GPP: Graph-powered Prioritizer for Pull Requests
+# GPP: A Graph-powered Prioritizer for Pull Requests
